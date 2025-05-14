@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time 
 
+# can interchange menu
+
 # ================= INITIALIZE VARIABLES =======================
 SERIAL_PORT = "COM10"  # Change this to your serial port
 BAUD_RATE = 230400
