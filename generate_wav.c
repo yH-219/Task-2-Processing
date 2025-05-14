@@ -2,6 +2,8 @@
 #include <stdint.h>
 #include <string.h>
 
+// solved noises
+
 struct wav_header
 {
     char riff[4];
