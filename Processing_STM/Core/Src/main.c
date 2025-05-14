@@ -20,6 +20,7 @@
 #include "main.h"
 // debugged noises
 // solved distance trigger
+// moving average filter fixed
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
