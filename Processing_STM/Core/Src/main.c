@@ -19,6 +19,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 // debugged noises
+// solved distance trigger
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
